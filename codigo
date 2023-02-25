@@ -1,0 +1,4 @@
+let steve = "Steve"
+var jobs: String
+jobs = "Jobs"
+print(steve,jobs)
